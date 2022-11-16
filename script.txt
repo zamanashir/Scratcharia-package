@@ -1,0 +1,15 @@
+-------INTEL CPU--------
+CPU:"Intel"
+OPR Sys:"#your opr sys#
+version:"#version#"
+core:"#core#bit
+type:"#type#"
+smc-version:"0"
+
+--------AMD CPU--------
+CPU:"AMD"
+OPR Sys:"#your opr sys#
+version:"#version#"
+core:"#core#bit
+type:"#type#"
+smc-version:"0"
